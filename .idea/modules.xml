@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TFplayground.iml" filepath="$PROJECT_DIR$/.idea/TFplayground.iml" />
+      <module fileurl="file://$USER_HOME$/source/repos/TFplayground/TFplayground/.idea/TFplayground.iml" filepath="$USER_HOME$/source/repos/TFplayground/TFplayground/.idea/TFplayground.iml" />
     </modules>
   </component>
 </project>
