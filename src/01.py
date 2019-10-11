@@ -1,9 +1,8 @@
+from __future__ import absolute_import, division, print_function, unicode_literals
+
 import tensorflow as tf
 
-a = tf.constant(1)
-b = tf.constant(2)
 
-c = tf.add(a,b)
+# Install TensorFlow
 
-with tf.Session() as sess:
-    print(sess.run(c))
+import tensorflow as tf
